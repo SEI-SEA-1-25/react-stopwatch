@@ -34,7 +34,7 @@ Once you have that, then you'll need to add functionality to our app!
 
 **Hints**...*Shhhhhh!*
 - It might be useful to rethink your state and what properties it should have to accomplish all the tasks!
-- You will want to include an additional attribute either in your state of your current interval.
+- You will want to include an additional attribute in your state for your current interval.
 - You can use `clearInterval` to stop the current interval!
 - When limiting button presses, think about how each value in state tells you what is going on! For example, if there is an interval set, that means there is count going!
 
