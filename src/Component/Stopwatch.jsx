@@ -12,7 +12,7 @@ export default class Stopwatch extends Component {
         this.setState({ counter: this.state.counter + 1 })
     }
     handleStart = () => {
-        this.intervalID = setInterval(this.timer, 1000)
+        this.setState({ interval: setInterval(this.timer, 1000) })
         
     }
     handleReset = () => {
@@ -21,10 +21,10 @@ export default class Stopwatch extends Component {
                 counter: 0
             }
         })
-        clearInterval(this.intervalID)
+        clearInterval(this.state.interval)
     }
     handlePause = () => {
-        clearInterval(this.intervalID)
+        clearInterval(this.state.interval)
     }
 
     render () {
