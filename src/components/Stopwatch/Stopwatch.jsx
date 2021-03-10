@@ -17,20 +17,29 @@ export default class Stopwatch extends Component {
     }
 
     handleStart = () => {
-        this.setState({
-            interval: setInterval(this.incrementInterval, 1000)
-        })
+        if(this.state.interval) {
+            return
+        } else {
+            this.setState({
+                interval: setInterval(this.incrementInterval, 1000)
+            })
+        }
     }
 
     handlePause = () => {
-        this.setState({
-            interval: clearInterval(this.state.interval)
-        })
+        if(this.state.interval === null) {
+            return
+        } else {
+            this.setState({
+                interval: clearInterval(this.state.interval)
+            })
+        }
     }
 
     handleReset = () => {
         this.setState({
-            counter: 0
+            counter: 0,
+            interval: null
         })
     }
     
