@@ -1,4 +1,5 @@
-import { Component } from 'core-js/library/fn/reflect/es7/metadata'
+import { Component } from 'react' 
+import Stopwatch from './components/Stopwatch/Stopwatch'
 
 export default class App extends Component {
   render() {
