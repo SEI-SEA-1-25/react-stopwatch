@@ -6,7 +6,7 @@ export default class Stopwatch extends Component {
     super();
     this.state = {
       counter: 0,
-      isTimerOn: null,
+      interval: null,
     };
   }
 
@@ -16,7 +16,7 @@ export default class Stopwatch extends Component {
       return;
     }
     this.setState({
-      isTimerOn: setInterval(this.incrementTime, 1000),
+      interval: setInterval(this.incrementTime, 1000),
     });
   };
 
@@ -28,7 +28,7 @@ export default class Stopwatch extends Component {
 
   handlePause = (e) => {
     this.setState({
-      isTimerOn: clearInterval(this.state.interval),
+      interval: clearInterval(this.state.interval),
     });
   };
 
