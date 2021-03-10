@@ -1,0 +1,15 @@
+div {
+    text-align: center;
+}
+h1 {
+    font-size: 90px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button {
+    width: 150px;
+    height: 100px;
+    background-color: rgb(134, 178, 201);
+    font-size: 30px;
+    border-radius: 10px;
+}
+
