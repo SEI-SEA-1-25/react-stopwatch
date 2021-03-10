@@ -9,9 +9,17 @@ export default class Stopwatch extends Component {
         }
     }
     // event handlers
+    incrementTime = () => {
+        this.setState({
+            counter: this.state.counter + 1
+        }, () => console.log('plus one to the thyme'))
+    }
+
     handleReset = (e) => {
-
-
+        this.setState({
+            counter: 0
+        })
+        this.state.interval ? this.handlePause() : this.handleStart()
         console.log('reset works')
     }
 
@@ -24,12 +32,16 @@ export default class Stopwatch extends Component {
     }
 
     handlePause = (e) => {
-        console.log('pause')
+        this.setState({
+            interval: clearInterval(this.state.interval)
+        }, () => console.log('pause'))
     }
 
     render() {
         return (
             <div>
+                <h1>{this.state.counter} </h1>
+
                 <button onClick={this.handleReset}>Reset</button>
                 <button onClick={this.handleStart}>Start</button>
                 <button onClick={this.handlePause}>Pause</button>
