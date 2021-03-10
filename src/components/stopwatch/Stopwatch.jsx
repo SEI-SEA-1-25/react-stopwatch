@@ -5,20 +5,21 @@ class Stopwatch extends Component {
         counter: 0,
         currentInterval: ''
     }
+    count = () => {
+        this.setState({
+            counter: this.state.counter + 1
+        })
+    }
     handleStart = (e) =>  {
         this.setState({
             currentInterval: setInterval(this.count, 1000)
         })
         //i do not fully understand set interval... 
     }
-    count = () => {
-        this.setState({
-            counter: this.state.counter + 1
-        })
-    }
     handleReset = (e) => {
         this.setState({
-            clearInterval
+            currentInterval: clearInterval(),
+            counter: 0
         })
     }
     handlePause = (e) => {
