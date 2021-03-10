@@ -1,4 +1,5 @@
 import { Component } from 'react' 
+import StopwatchCounter from '../Stopwatch-Counter/StopwatchCounter'
 
 export default class Stopwatch extends Component {
     
@@ -6,16 +7,18 @@ export default class Stopwatch extends Component {
         counter: 0
     }
 
-    handleStart
+    handleStart = () => {
+        this.setState({})
+    }
     
     render () {
         return (
             <div>
-                <h1></h1>
+                <StopwatchCounter counter={this.state.counter}/>
                 <div>
-                    <button>Reset</button>
-                    <button>Start</button>
-                    <button>Pause</button>
+                    <button onClick={this.handleReset}>Reset</button>
+                    <button onClick={this.handleStart}>Start</button>
+                    <button onClick={this.handlePause}>Pause</button>
                 </div>
             </div>
         )
