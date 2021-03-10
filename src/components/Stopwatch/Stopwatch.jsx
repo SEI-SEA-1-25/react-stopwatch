@@ -4,11 +4,15 @@ import StopwatchCounter from '../Stopwatch-Counter/StopwatchCounter'
 export default class Stopwatch extends Component {
     
     state = {
-        counter: 0
+        counter: 0,
     }
 
     handleStart = () => {
-        this.setState({})
+        this.setState((prevState) => {
+            return {
+                counter: prevState.counter +1
+            }
+        })
     }
     
     render () {
