@@ -2,13 +2,13 @@ body {
   text-align: center;
   background-color: aliceblue;
   font-family: OCR A Std, monospace;
-  margin: 150px;
+  margin: 50px;
 }
 button {
   margin: 20px;
-  background-color: rgba(234, 245, 234, 0.639);
+  background-color: rgba(230, 185, 230, 0.742);
   border-radius: 28px;
-  border: 1px solid #000000;
+  border: 3px solid #000000;
   display: inline-block;
   cursor: grab;
   color: #661212;
