@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs>
+<radialGradient cx="501.178" r="35.9423" id="RadialGradient" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 0 0)" cy="506.443">
+<stop stop-opacity="0.510522" stop-color="#bc9d41" offset="0"/>
+<stop stop-opacity="0.629114" stop-color="#b89d6b" offset="0.11919"/>
+<stop stop-opacity="0.816077" stop-color="#3f520b" offset="0.894805"/>
+<stop stop-opacity="0.824776" stop-color="#3b4e15" offset="0.989587"/>
+</radialGradient>
+</defs>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path stroke="#06080d" stroke-width="22.11" d="M506.32+545.465L501.178+260.116L501.178+36.0961L506.32+21.98" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#c9d3ef" stroke-opacity="0.728887" stroke-width="22.11" d="M411.599+605.694C359.521+552.808+357.409+465.498+406.883+410.683C456.356+355.869+538.679+354.306+590.757+407.192C642.835+460.079+644.946+547.389+595.473+602.204C546+657.018+463.676+658.581+411.599+605.694Z" fill="#090202" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="1.32" d="M-2730.14+1.40364e+07L-2730.14-1.34934e+07" fill="#651a1a" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#c9d3ef" stroke-opacity="0.728887" stroke-width="22.11" d="M501.178+540.627L465.235+514.513L478.964+472.26L523.391+472.26L537.12+514.513L501.178+540.627Z" fill="url(#RadialGradient)" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#c9d3ef" stroke-opacity="0.728887" stroke-width="22.11" d="M501.178+0L540.587+32.9568L525.534+86.2821L476.821+86.2821L461.768+32.9568L463.862+27.1314L501.178+0Z" fill="#222107" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg class="App-logo-min" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 935.918 615.933">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path stroke="#2a0505" vectornator:shadowColor="#120505" vectornator:shadowOffset="7.00774" stroke-width="5.6" fill="#d5d31b" stroke-linecap="round" vectornator:shadowAngle="0.797205" stroke-linejoin="round" opacity="1" vectornator:shadowRadius="9.60013" d="M542.936+303.909C511.581+324.453+482.878+335.797+478.826+329.246C476.022+324.711+485.764+312.791+502.425+299.069C509.834+292.967+518.613+286.508+528.265+280.183C540.141+272.402+600.611+233.79+671.381+189.172C787.464+115.988+931.26+26.6489+933.777+30.7191C936.724+35.4854+744.68+95.483+627.966+174.732C584.248+204.415+551.481+298.31+542.936+303.909Z" vectornator:shadowOpacity="0.51894"/>
+</g>
+</svg>
