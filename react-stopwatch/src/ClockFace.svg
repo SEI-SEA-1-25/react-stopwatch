@@ -1,0 +1,42 @@
+<svg class="App-logo-face" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="New" value="1"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<g opacity="1">
+<path stroke="#d5d31b" stroke-width="9.63" d="M10.3914+508.998C10.3914+235.133+235.001+13.1225+512.07+13.1225C789.14+13.1225+1013.75+235.133+1013.75+508.998C1013.75+782.862+789.14+1004.87+512.07+1004.87C235.001+1004.87+10.3914+782.862+10.3914+508.998Z" fill="#061641" stroke-linecap="round" fill-opacity="0.728887" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.8" d="M152.593+180.731L852.636+867.828" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.8" d="M151.577+847.358L877.478+176.237" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.8" d="M500.361+10.2335L530.571+1000.65" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.8" d="M13.5602+503.396L1010.09+520.459" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#000000" stroke-width="2.8" d="M70.068+512.433C70.068+279.302+264.486+90.3127+504.312+90.3127C744.139+90.3127+938.556+279.302+938.556+512.433C938.556+745.563+744.139+934.553+504.312+934.553C264.486+934.553+70.068+745.563+70.068+512.433Z" fill="#061641" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<text stroke="#380a0a" stroke-width="1.3" x="0" font-family="AppleSymbols" y="0" fill="#d5d31b" stroke-linecap="round" font-size="63" opacity="1" text-anchor="middle" transform="matrix(1.43058 0 0 1.382 324.553 101.024)" stroke-linejoin="round" vectornator:width="257.19" vectornator:text="60/1">
+<tspan x="128.595" y="42" textLength="113.48">
+60/1</tspan>
+</text>
+<text x="0" font-family="AppleSymbols" y="0" text-anchor="middle" vectornator:text="30" fill="#d5d31b" font-size="63" vectornator:width="121.501" opacity="1" transform="matrix(1.43058 0 0 1.382 430.464 859.212)"/>
+<text stroke="#d5d31b" stroke-width="1.58" x="0" fill-opacity="0" font-family="AppleSymbols" fill="#fcfcfc" stroke-linecap="round" transform="matrix(1.43058 0 0 1.382 813.451 485.298)" font-size="63" opacity="1" text-anchor="middle" stroke-linejoin="round" y="0" vectornator:width="102.69" vectornator:text="15&#xA;">
+<tspan x="51.3449" y="42" textLength="59.6162">
+15
+</tspan>
+</text>
+<text stroke="#bfbd26" stroke-width="1.78" x="0" fill-opacity="0" font-family="AppleSymbols" fill="#d5d31b" stroke-linecap="round" transform="matrix(1.43058 0 0 1.382 16.9934 469.575)" font-size="63" opacity="1" text-anchor="middle" stroke-linejoin="round" y="0" vectornator:width="142.587" vectornator:text="45">
+<tspan x="71.2934" y="42" textLength="59.6162">
+45</tspan>
+</text>
+</g>
+</g>
+</svg>
